@@ -128,7 +128,7 @@ $ git clone https://github.com/myelin-foundry/challenge.git  # if you are using 
      GitHub repo link to vasant@myelinfoundry.com
 
 <a id="org7199751"></a>
-# *Content Image* : [Japanese_garden](https://github.com/myelin-foundry/challenge/blob/master/japanese_garden.jpg)
+# *Content Image* : [Japanese_garden](https://github.com/myelinfoundry-2019/challenge/blob/master/japanese_garden.jpg)
 <a id="orgbdd1c6b"></a>
-# *Style image*   :  [Picasso_selfportrait](https://github.com/myelin-foundry/challenge/blob/master/picasso_selfportrait.jpg)
+# *Style image*   :  [Picasso_selfportrait](https://github.com/myelinfoundry-2019/challenge/blob/master/picasso_selfportrait.jpg)
 
